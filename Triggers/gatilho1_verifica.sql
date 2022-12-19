@@ -1,0 +1,1 @@
+INSERT INTO Jogador (nomeJogador, numero, nacionalidade, totalGolos, nomeEquipa) VALUES ('B. Folha', 87, 'Portugues', NULL,'FC Porto');
