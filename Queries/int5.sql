@@ -7,4 +7,4 @@
 SELECT nomeEquipa, anoFundacao
 FROM Equipa
 ORDER BY 2 ASC
-LIMIT 2,1;
+LIMIT 3,1;
